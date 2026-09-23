@@ -3,7 +3,8 @@
   "identifier": "uk.navsafe.altstore",
   "subtitle": "Early-access iPhone builds of NavSafe.",
   "description": "The AltStore source for NavSafe: turn-by-turn navigation that shows the drivers behind you your next move on a rear-window sign. Builds here arrive before the App Store release.",
-  "iconURL": "https://raw.githubusercontent.com/maxtheobaldd/navsafe-altstore/main/assets/icon.png",
+  "iconURL": "https://raw.githubusercontent.com/maxtheobaldd/navsafe-altstore/main/assets/source-icon.png",
+  "headerURL": "https://raw.githubusercontent.com/maxtheobaldd/navsafe-altstore/main/assets/header.png",
   "website": "https://navsafe.uk",
   "tintColor": "#E42A17",
   "featuredApps": [
@@ -63,5 +64,16 @@
       "size": 24229014
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "NavSafe early access",
+      "identifier": "navsafe-early-access-2026-09",
+      "caption": "Try the redesigned NavSafe on your iPhone while the App Store version is in review.",
+      "date": "2026-09-23",
+      "tintColor": "#E42A17",
+      "imageURL": "https://raw.githubusercontent.com/maxtheobaldd/navsafe-altstore/main/assets/news-early-access.png",
+      "appID": "com.navsafe.app",
+      "notify": false
+    }
+  ]
 }

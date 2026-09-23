@@ -1,4 +1,4 @@
-<img src="assets/icon.png" width="96" alt="NavSafe icon">
+<img src="assets/header.png" alt="NavSafe: the rear sign shows the drivers behind you your next turn">
 
 # NavSafe for AltStore
 
