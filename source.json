@@ -26,11 +26,32 @@
         "https://raw.githubusercontent.com/maxtheobaldd/navsafe-altstore/main/assets/screenshots/4-place.jpg",
         "https://raw.githubusercontent.com/maxtheobaldd/navsafe-altstore/main/assets/screenshots/5-route.jpg"
       ],
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "2026092321",
+          "date": "2026-09-23T20:35:30+00:00",
+          "localizedDescription": "First AltStore release of the redesigned NavSafe.\n\n• New Explore map with category search and full place cards: photos, ratings, opening hours, phone and website\n• New You tab: saved lists, Home and Work, recent destinations, trips and saved routes\n• In-drive search along your route, route overview and steps, and sound controls\n• A live mirror of the rear sign during navigation\n• Light and dark themes that follow your iPhone",
+          "downloadURL": "https://github.com/maxtheobaldd/navsafe-altstore/releases/download/v1.0-2026092321/NavSafe-AltStore.ipa",
+          "size": 24226153,
+          "minOSVersion": "16.0"
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {}
-      }
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "NavSafe connects to your CoolLEDUX sign over Bluetooth to show the upcoming turn and distance.",
+          "NSBluetoothPeripheralUsageDescription": "NavSafe connects to your CoolLEDUX sign over Bluetooth to show the upcoming turn and distance.",
+          "NSLocalNetworkUsageDescription": "NavSafe connects to your rear-window sign over your local Wi-Fi network to show the upcoming turn and distance.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "NavSafe keeps using your location in the background so the rear-window sign keeps showing the upcoming turn while you drive with the screen off.",
+          "NSLocationWhenInUseUsageDescription": "NavSafe uses your location to provide turn-by-turn navigation and to drive the rear-window sign."
+        }
+      },
+      "version": "1.0",
+      "versionDate": "2026-09-23T20:35:30+00:00",
+      "versionDescription": "First AltStore release of the redesigned NavSafe.\n\n• New Explore map with category search and full place cards: photos, ratings, opening hours, phone and website\n• New You tab: saved lists, Home and Work, recent destinations, trips and saved routes\n• In-drive search along your route, route overview and steps, and sound controls\n• A live mirror of the rear sign during navigation\n• Light and dark themes that follow your iPhone",
+      "downloadURL": "https://github.com/maxtheobaldd/navsafe-altstore/releases/download/v1.0-2026092321/NavSafe-AltStore.ipa",
+      "size": 24226153
     }
   ],
   "news": []
