@@ -1,0 +1,37 @@
+{
+  "name": "NavSafe",
+  "identifier": "uk.navsafe.altstore",
+  "subtitle": "Early-access iPhone builds of NavSafe.",
+  "description": "The AltStore source for NavSafe: turn-by-turn navigation that shows the drivers behind you your next move on a rear-window sign. Builds here arrive before the App Store release.",
+  "iconURL": "https://raw.githubusercontent.com/maxtheobaldd/navsafe-altstore/main/assets/icon.png",
+  "website": "https://navsafe.uk",
+  "tintColor": "#E42A17",
+  "featuredApps": [
+    "com.navsafe.app"
+  ],
+  "apps": [
+    {
+      "name": "NavSafe",
+      "bundleIdentifier": "com.navsafe.app",
+      "developerName": "NavSafe",
+      "subtitle": "Show drivers behind you your next turn.",
+      "localizedDescription": "NavSafe is turn-by-turn navigation built on Google Maps that can also drive a rear-window LED sign, showing the drivers behind you your next turn and how far away it is.\n\n• Explore the map, search for places and browse nearby petrol, parking, food and more\n• Place cards with photos, ratings, opening hours, phone and website\n• Driving directions with live traffic, alternative routes, up to three stops, and options to avoid tolls, motorways and ferries\n• Turn-by-turn voice guidance with speed limits, a route overview and search along your route\n• Saved lists, Home and Work, recent destinations and saved routes\n• A live on-screen mirror of the sign on every drive, so you can try NavSafe without any hardware\n• Light and dark themes that follow your iPhone\n\nAbout this build: this is an early-access build shared through AltStore while the App Store version is in review. CarPlay and Sign in with Apple aren't available here, so sign in with your email address instead. NavSafe needs your location to navigate; choose \"Always\" if you want the sign to keep working with the screen off.",
+      "iconURL": "https://raw.githubusercontent.com/maxtheobaldd/navsafe-altstore/main/assets/icon.png",
+      "tintColor": "#E42A17",
+      "category": "utilities",
+      "screenshots": [
+        "https://raw.githubusercontent.com/maxtheobaldd/navsafe-altstore/main/assets/screenshots/1-drive.jpg",
+        "https://raw.githubusercontent.com/maxtheobaldd/navsafe-altstore/main/assets/screenshots/2-sign.jpg",
+        "https://raw.githubusercontent.com/maxtheobaldd/navsafe-altstore/main/assets/screenshots/3-explore.jpg",
+        "https://raw.githubusercontent.com/maxtheobaldd/navsafe-altstore/main/assets/screenshots/4-place.jpg",
+        "https://raw.githubusercontent.com/maxtheobaldd/navsafe-altstore/main/assets/screenshots/5-route.jpg"
+      ],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
