@@ -29,6 +29,15 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "2026092322",
+          "date": "2026-09-23T21:42:18+00:00",
+          "localizedDescription": "Fixes directions starting from an old position.\n\n• Explore and the route preview now keep following your location, so a route always starts where you are now, not where the map last found you\n• Opening directions from the You tab, or straight after returning to the app, waits a moment to confirm your position before routing\n• The route preview shows your live location dot",
+          "downloadURL": "https://github.com/maxtheobaldd/navsafe-altstore/releases/download/v1.0-2026092322/NavSafe-AltStore.ipa",
+          "size": 24229014,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "2026092321",
           "date": "2026-09-23T20:35:30+00:00",
           "localizedDescription": "First AltStore release of the redesigned NavSafe.\n\n• New Explore map with category search and full place cards: photos, ratings, opening hours, phone and website\n• New You tab: saved lists, Home and Work, recent destinations, trips and saved routes\n• In-drive search along your route, route overview and steps, and sound controls\n• A live mirror of the rear sign during navigation\n• Light and dark themes that follow your iPhone",
@@ -48,10 +57,10 @@
         }
       },
       "version": "1.0",
-      "versionDate": "2026-09-23T20:35:30+00:00",
-      "versionDescription": "First AltStore release of the redesigned NavSafe.\n\n• New Explore map with category search and full place cards: photos, ratings, opening hours, phone and website\n• New You tab: saved lists, Home and Work, recent destinations, trips and saved routes\n• In-drive search along your route, route overview and steps, and sound controls\n• A live mirror of the rear sign during navigation\n• Light and dark themes that follow your iPhone",
-      "downloadURL": "https://github.com/maxtheobaldd/navsafe-altstore/releases/download/v1.0-2026092321/NavSafe-AltStore.ipa",
-      "size": 24226153
+      "versionDate": "2026-09-23T21:42:18+00:00",
+      "versionDescription": "Fixes directions starting from an old position.\n\n• Explore and the route preview now keep following your location, so a route always starts where you are now, not where the map last found you\n• Opening directions from the You tab, or straight after returning to the app, waits a moment to confirm your position before routing\n• The route preview shows your live location dot",
+      "downloadURL": "https://github.com/maxtheobaldd/navsafe-altstore/releases/download/v1.0-2026092322/NavSafe-AltStore.ipa",
+      "size": 24229014
     }
   ],
   "news": []
