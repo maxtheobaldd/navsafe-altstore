@@ -30,6 +30,15 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "2026092419",
+          "date": "2026-09-24T19:01:52+00:00",
+          "localizedDescription": "Clearer permissions, working policy links and a way out of password reset.\n\n• The Privacy policy and Terms of use links in About, legal & data now open real pages\n• Permission requests are clearer: location and Bluetooth explain exactly what they're used for, and the map no longer asks for Bluetooth unless you set up a sign\n• If a password reset code can't be sent, you can now email support straight from the reset screen\n• Help now shows iPhone settings steps only\n• Small wording fixes in Trips",
+          "downloadURL": "https://github.com/maxtheobaldd/navsafe-altstore/releases/download/v1.0-2026092419/NavSafe-AltStore.ipa",
+          "size": 24232453,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "2026092417",
           "date": "2026-09-24T16:28:34+00:00",
           "localizedDescription": "A cleaner, more consistent NavSafe, now in miles.\n\n• Distances now show in miles and yards by default. You can switch to kilometres in Settings\n• Driving: Google's extra buttons are gone. Pan the map and a Re-centre button brings you back. Traffic warnings still show\n• Opening Settings during a drive no longer ends the drive, and nothing closes it without asking \"End this drive?\"\n• A light map now stays light at night during a drive, matching the rest of the app\n• The phone's sign preview shows a standby dash instead of a black box between turns\n• The You tab is simpler: one place to sign in, and the old Account & settings page has been removed\n• Trip details now give a plain summary: when, how long, how it ended, and what the sign showed\n• Lists: add places straight from search, and undo if you remove one by mistake\n• Tidier Explore, place details and route preview, a step-by-step sign setup, and clearer wording throughout",
@@ -59,18 +68,17 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSBluetoothAlwaysUsageDescription": "NavSafe connects to your CoolLEDUX sign over Bluetooth to show the upcoming turn and distance.",
-          "NSBluetoothPeripheralUsageDescription": "NavSafe connects to your CoolLEDUX sign over Bluetooth to show the upcoming turn and distance.",
+          "NSBluetoothAlwaysUsageDescription": "NavSafe uses Bluetooth to connect to your rear-window LED sign and show drivers behind you the next turn and distance.",
           "NSLocalNetworkUsageDescription": "NavSafe connects to your rear-window sign over your local Wi-Fi network to show the upcoming turn and distance.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "NavSafe keeps using your location in the background so the rear-window sign keeps showing the upcoming turn while you drive with the screen off.",
-          "NSLocationWhenInUseUsageDescription": "NavSafe uses your location to provide turn-by-turn navigation and to drive the rear-window sign."
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "While turn-by-turn guidance is running, NavSafe keeps using your location when your screen locks or you switch apps, so spoken directions continue. Your rear-window sign goes dark until you return to NavSafe.",
+          "NSLocationWhenInUseUsageDescription": "NavSafe uses your location to show where you are on the map, find places near you, give turn-by-turn directions and show the next turn on your rear-window sign."
         }
       },
       "version": "1.0",
-      "versionDate": "2026-09-24T16:28:34+00:00",
-      "versionDescription": "A cleaner, more consistent NavSafe, now in miles.\n\n• Distances now show in miles and yards by default. You can switch to kilometres in Settings\n• Driving: Google's extra buttons are gone. Pan the map and a Re-centre button brings you back. Traffic warnings still show\n• Opening Settings during a drive no longer ends the drive, and nothing closes it without asking \"End this drive?\"\n• A light map now stays light at night during a drive, matching the rest of the app\n• The phone's sign preview shows a standby dash instead of a black box between turns\n• The You tab is simpler: one place to sign in, and the old Account & settings page has been removed\n• Trip details now give a plain summary: when, how long, how it ended, and what the sign showed\n• Lists: add places straight from search, and undo if you remove one by mistake\n• Tidier Explore, place details and route preview, a step-by-step sign setup, and clearer wording throughout",
-      "downloadURL": "https://github.com/maxtheobaldd/navsafe-altstore/releases/download/v1.0-2026092417/NavSafe-AltStore.ipa",
-      "size": 24232539
+      "versionDate": "2026-09-24T19:01:52+00:00",
+      "versionDescription": "Clearer permissions, working policy links and a way out of password reset.\n\n• The Privacy policy and Terms of use links in About, legal & data now open real pages\n• Permission requests are clearer: location and Bluetooth explain exactly what they're used for, and the map no longer asks for Bluetooth unless you set up a sign\n• If a password reset code can't be sent, you can now email support straight from the reset screen\n• Help now shows iPhone settings steps only\n• Small wording fixes in Trips",
+      "downloadURL": "https://github.com/maxtheobaldd/navsafe-altstore/releases/download/v1.0-2026092419/NavSafe-AltStore.ipa",
+      "size": 24232453
     }
   ],
   "news": [
