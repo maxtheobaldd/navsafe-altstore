@@ -30,6 +30,15 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "2026092615",
+          "date": "2026-09-26T13:42:51+00:00",
+          "localizedDescription": "Fixes sign setup, which stopped at the arrow test in the last build.\n\n• Setting up your sign for the first time now works. After you pick your sign, the arrow test runs on it instead of saying it couldn't reach the sign. If setup failed for you in the last build, open the Sign tab and tap \"Set up your sign\" again\n• Setting up a different sign no longer points NavSafe back at your old one partway through the test",
+          "downloadURL": "https://github.com/maxtheobaldd/navsafe-altstore/releases/download/v1.0-2026092615/NavSafe-AltStore.ipa",
+          "size": 24548809,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "2026092614",
           "date": "2026-09-26T13:21:21+00:00",
           "localizedDescription": "You choose your sign, and drives get lane guidance and a stops list.\n\n• Sign setup now lists the signs nearby and connects only to the one you pick. If the Sign tab says \"No sign set up yet\", tap \"Set up your sign\" once. NavSafe no longer connects to a sign you haven't chosen\n• Setup checks which way the arrows point. If your sign is fitted upside down, \"Turn the picture round\" fixes it\n• Name or forget your sign on the Sign tab, and see every picture it can show in \"What your sign shows\"\n• The sign dims itself after sunset and stays amber at low brightness. It reconnects on its own during a drive, and it goes dark when GPS is weak instead of showing a turn that may be late\n• Driving: lane guidance, the road after the next turn, a step list that updates when you're rerouted, and a stops list where you can skip or remove a stop\n• The arrival time now counts to your final destination, not the next stop. A notice tells you when a faster route turns up\n• When a drive ends, you get a summary: time, distance and how many turns your sign showed\n• Explore shows your saved places on the map, plus travel times to Home and Work\n• Place cards show fuel prices, EV charging and parking where Google has them\n• Remove one recent search or clear them all. Your own places come first as you type\n• Paste a Google Maps link into Search to open it. Long-press the NavSafe icon, or ask Siri, to drive home, drive to work or check your sign\n• The drive, the route preview and Explore turn sideways in a landscape car mount\n• You can also delete a single trip and view place photos full screen. Open-source licences are in About & legal",
@@ -84,10 +93,10 @@
         }
       },
       "version": "1.0",
-      "versionDate": "2026-09-26T13:21:21+00:00",
-      "versionDescription": "You choose your sign, and drives get lane guidance and a stops list.\n\n• Sign setup now lists the signs nearby and connects only to the one you pick. If the Sign tab says \"No sign set up yet\", tap \"Set up your sign\" once. NavSafe no longer connects to a sign you haven't chosen\n• Setup checks which way the arrows point. If your sign is fitted upside down, \"Turn the picture round\" fixes it\n• Name or forget your sign on the Sign tab, and see every picture it can show in \"What your sign shows\"\n• The sign dims itself after sunset and stays amber at low brightness. It reconnects on its own during a drive, and it goes dark when GPS is weak instead of showing a turn that may be late\n• Driving: lane guidance, the road after the next turn, a step list that updates when you're rerouted, and a stops list where you can skip or remove a stop\n• The arrival time now counts to your final destination, not the next stop. A notice tells you when a faster route turns up\n• When a drive ends, you get a summary: time, distance and how many turns your sign showed\n• Explore shows your saved places on the map, plus travel times to Home and Work\n• Place cards show fuel prices, EV charging and parking where Google has them\n• Remove one recent search or clear them all. Your own places come first as you type\n• Paste a Google Maps link into Search to open it. Long-press the NavSafe icon, or ask Siri, to drive home, drive to work or check your sign\n• The drive, the route preview and Explore turn sideways in a landscape car mount\n• You can also delete a single trip and view place photos full screen. Open-source licences are in About & legal",
-      "downloadURL": "https://github.com/maxtheobaldd/navsafe-altstore/releases/download/v1.0-2026092614/NavSafe-AltStore.ipa",
-      "size": 24548945
+      "versionDate": "2026-09-26T13:42:51+00:00",
+      "versionDescription": "Fixes sign setup, which stopped at the arrow test in the last build.\n\n• Setting up your sign for the first time now works. After you pick your sign, the arrow test runs on it instead of saying it couldn't reach the sign. If setup failed for you in the last build, open the Sign tab and tap \"Set up your sign\" again\n• Setting up a different sign no longer points NavSafe back at your old one partway through the test",
+      "downloadURL": "https://github.com/maxtheobaldd/navsafe-altstore/releases/download/v1.0-2026092615/NavSafe-AltStore.ipa",
+      "size": 24548809
     }
   ],
   "news": [
